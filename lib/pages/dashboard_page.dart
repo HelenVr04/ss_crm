@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 
-import '../models/client.dart'; // 👈 tu modelo de clientes
+import '../models/client.dart'; 
 
 // Misma paleta que todo el CRM
 const morado = Color(0xFFA18CD1);
